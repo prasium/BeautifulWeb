@@ -1,0 +1,53 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+h1 {
+margin-top: 0;
+  font-size: 5em;
+  font-family: 'Sacramento', sans-serif;
+}
+
+h3{
+
+    font-family: 'Libre Baskerville', cursive;
+
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+.top-container{
+  position: relative;
+  padding-top: 100px;
+  background: #3fc1c9;
+}
+
+.middle-container{
+  position: relative;
+  padding-top: 100px;
+  background: #3fc1c9;
+}
+.bottom-container{
+  position: relative;
+  padding-top: 100px;
+  background: #3fc1c9;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 300px ;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profilepic,.lemonade{
+  height: 200px;
+  width: 200px;
+}
